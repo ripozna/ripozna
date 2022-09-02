@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ripozna
-- 👀 I’m interested in python and C++
+- 👋 Hi, I’m shitty programmer
+- 👀 I’m interested in python,C# and ruby
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on with people,that know C++ and Python
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on with people,that know programming languages I'm interested in
+- 📫 My telegram-@lakrimka
 
 <!---
 ripozna/ripozna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
