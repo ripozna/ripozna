@@ -1,9 +1,9 @@
-👋 Hi, I’m a shitty programmer
-👀 I’m interested in Python, C#, and Rust
-🌱 I’m currently learning Python
-💞️ I’m looking to collaborate with people who know machine learning and programming languages I'm interested in
-📫 My Telegram – @ripozna
-📷 My Instagram – parace1l
+-👋 Hi, I’m a shitty programmer
+-👀 I’m interested in Python, C#, and Rust
+-🌱 I’m currently learning Python
+-💞️ I’m looking to collaborate with people who know machine learning and programming languages I'm interested in
+-📫 My Telegram – @ripozna
+-📷 My Instagram – parace1l
 
 
 <!---
